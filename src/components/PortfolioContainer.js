@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import NavTabs from "./NavTabs";
-import Home from "./pages/Home";
-import About from "./pages/About";
+import Home from "./pages/Home/Home";
+import About from "./pages/About/About";
 import Porfolio from "./pages/Portfolio/Portfolio";
-import Contact from "./pages/Contact";
+import Contact from "./pages/Contact/Contact";
 
 
 class Portfolio extends Component {

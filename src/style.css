@@ -1,0 +1,120 @@
+.nav-link {
+    color: rgb(243, 239, 7);
+}
+
+
+
+
+.home {
+    background-color:rgb(243, 239, 7);
+
+
+}
+.home h1 {
+    color: black;
+    
+
+}
+.home p
+ {
+    color: black;
+ }
+
+.about {
+    background-color:rgb(243, 239, 7);
+}
+.about h1 {
+    color:black
+
+}
+.about p
+ {
+    color: black;
+ }
+.about img {
+    width: 200px;
+    height: 200px;
+   border-radius: 50%;
+    position: relative;
+   top: -16px;
+   right: -706px;
+
+   }
+.contact {
+    background-color:rgb(243, 239, 7);
+
+
+}
+.contact h1 {
+    color: black;
+    
+
+}
+.contact p
+ {
+    color: black;
+ }
+ .contact footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-body {
+    background-color:rgb(243, 239, 7);
+   border-radius: 40px;
+   margin-bottom: 5px;
+    margin-top: 20px;
+    
+}
+
+.card-img-top{
+    height:250px;
+    width: 350px;
+}
+
+
+.Portfolio h1 {
+    color: black;
+    
+
+}
+.Portfolio p
+ {
+    color: black;
+ }
+ .btn-float-right{
+	float: right; 
+    color:antiquewhite;
+   background-color:#0a0a23;
+   border:none;
+   border-radius:10px;
+   box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+   padding:10px;
+ 
+
+ }
+
+ .btn-float-left{
+	float: left; 
+    color:antiquewhite;
+   background-color:#0a0a23;
+   border:none;
+   border-radius:10px;
+   box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+   padding:10px;
+ 
+
+ }
+
+  .btn-float-left:hover{
+    background-color: grey;
+    transition: 0.7s;
+ }
+
+ .btn-float-right:hover{
+    background-color: grey;
+    transition: 0.7s;
+ }
